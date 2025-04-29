@@ -1,10 +1,11 @@
-This repo contains Quarkus Exercise - 2.1
+<H1>This repo contains Quarkus Exercise - 2.1 </H1>
 
 2. Quarkus Exercises
 
     2.1 REST Endpoint with Path/Query Params & CDI
 
 
+<BR>
 <H1>Back to Other Backend Exercise Solutions</H1>
 
 **1. <a href = "https://github.com/sunaina-kapadne/preliminary.git"> Java Exercises </a>**
